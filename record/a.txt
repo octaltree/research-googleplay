@@ -1,0 +1,4489 @@
+[[
+  "https://play.google.com/store/apps/details?id=air.jp.zumec.PianoEnsemble",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=app.melon.sound_meter",
+  [
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=audiorecording.microphone.recording.app",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=avinash42.soundrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=call.recorder.automatic.acr",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "modify your contacts",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "send sticky broadcast",
+    "disable your screen lock",
+    "expand/collapse status bar",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping",
+    "set an alarm",
+    "install shortcuts"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=caller.live.freeapps.callrecorder",
+  [
+    "find accounts on the device",
+    "add or remove accounts",
+    "find accounts on the device",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "access Bluetooth settings",
+    "expand/collapse status bar",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=cclk.studio.krok",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "view network connections",
+    "full network access",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=cm.audiorecorder.voicerecorder",
+  [
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=co.speechnotes.speechnotes",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.ASMRVoiceRecorder.Infinity",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.MusicalSoundLab.IntelligentRecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.MusicalSoundLab.IntelligentRecorderFree",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.SouthernPacificOceanFisher.VoiceToText_memo",
+  [
+    "read calendar events plus confidential information",
+    "add or modify calendar events and send email to guests without owners' knowledge",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.aisense.otter",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "read your contacts",
+    "receive data from Internet",
+    "change your audio settings",
+    "prevent device from sleeping",
+    "pair with Bluetooth devices",
+    "change network connectivity",
+    "run at startup",
+    "full network access",
+    "view network connections",
+    "control vibration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.androidrocker.audiocutter",
+  [
+    "read your contacts",
+    "modify your contacts",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.andrwq.recorder",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "full network access",
+    "prevent device from sleeping",
+    "view network connections",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.anhlt.karaokelite",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.anhlt.karaokeonline",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.apowersoft.screenrecord",
+  [
+    "retrieve running apps",
+    "read phone status and identity",
+    "access USB storage filesystem",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "bind to an accessibility service",
+    "capture audio output",
+    "capture secure video output",
+    "capture video output",
+    "update component usage statistics",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "change network connectivity",
+    "allow Wi-Fi Multicast reception",
+    "connect and disconnect from Wi-Fi",
+    "expand/collapse status bar",
+    "control flashlight",
+    "full network access",
+    "close other apps",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.appmind.radios.jp",
+  [
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "find accounts on the device",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "prevent device from sleeping",
+    "read Google service configuration",
+    "pair with Bluetooth devices",
+    "disable your screen lock",
+    "access Bluetooth settings",
+    "run at startup",
+    "full network access",
+    "connect and disconnect from Wi-Fi",
+    "change your audio settings",
+    "Google Play license check"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.appscorner.callrecorde",
+  [
+    "retrieve running apps",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "change your audio settings",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.appstar.audiorecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "use accounts on the device",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.appstar.callrecorder",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "find accounts on the device",
+    "read your contacts",
+    "find accounts on the device",
+    "bind to an accessibility service",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "draw over other apps",
+    "run at startup",
+    "control vibration",
+    "change your audio settings",
+    "full network access",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.aseantech.callrecordjapan",
+  [
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.aubade.full",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "control vibration",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.aubade.lite",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.audials",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "prevent device from sleeping",
+    "disable your screen lock",
+    "run at startup",
+    "view network connections",
+    "read Google service configuration",
+    "allow Wi-Fi Multicast reception",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.audio.converter.audio.trimmer.audio.recorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.audio.world.audiorecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.audioRec",
+  [
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "run at startup",
+    "read Google service configuration",
+    "full network access",
+    "prevent device from sleeping",
+    "view network connections",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.audiofix.hearboost",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.audiorecorder.voicerecording",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "bind to a widget service",
+    "receive data from Internet",
+    "send sticky broadcast",
+    "modify system settings",
+    "prevent device from sleeping",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "draw over other apps",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.audiosmaxs.audiorecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.bandlab.bandlab",
+  [
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "take pictures and videos",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "read your contacts",
+    "receive data from Internet",
+    "pair with Bluetooth devices",
+    "run at startup",
+    "control vibration",
+    "full network access",
+    "prevent device from sleeping",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.bhrigu.echorecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.bluetoothrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.bruxlabsnore",
+  [
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "allow Bluetooth pairing by Application",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "access Bluetooth settings",
+    "disable your screen lock",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.bwf.automatic.call.recorder.auto.recording.app",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "record audio",
+    "find accounts on the device",
+    "read your contacts",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "draw over other apps",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.call.recording.callrecord",
+  [
+    "retrieve running apps",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "change your audio settings",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.callrecord.auto",
+  [
+    "retrieve running apps",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "change your audio settings",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.callrecord.autopro",
+  [
+    "retrieve running apps",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "change your audio settings",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.callrecorderautomatic.acrcallrecording",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "modify your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "send sticky broadcast",
+    "disable your screen lock",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.callrecorderautomatic.incoming.outgoing",
+  [
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.calm.audiorecorder.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "capture audio output",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.capturerecorder.receditor.screenrecorder",
+  [
+    "read sensitive log data",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "view network connections",
+    "expand/collapse status bar",
+    "full network access",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.catalinagroup.callrecorder",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "access USB storage filesystem",
+    "read phone status and identity",
+    "record audio",
+    "read your contacts",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "bind to an accessibility service",
+    "receive data from Internet",
+    "control vibration",
+    "prevent device from sleeping",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "draw over other apps",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.cherinbo.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "modify your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "use accounts on the device",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.churaneko.android.childpiano",
+  [ "view network connections", "full network access" ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.cks.hiroyuki2.radiko",
+  [
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.codetho.automaticcallrecorder",
+  [
+    "read phone status and identity",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read your contacts",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "capture audio output",
+    "receive data from Internet",
+    "change your audio settings",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "draw over other apps",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.coffeebeanventures.easyvoicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "send sticky broadcast",
+    "modify system settings",
+    "prevent device from sleeping",
+    "access Bluetooth settings",
+    "pair with Bluetooth devices",
+    "run at startup",
+    "view network connections",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.coolncoolapps.easyvideorecorder",
+  [
+    "take pictures and videos",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "run at startup",
+    "control vibration",
+    "view network connections",
+    "draw over other apps",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.coolncoolapps.easyvoicerecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.dena.mirrativ",
+  [
+    "view Wi-Fi connections",
+    "take pictures and videos",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "read phone status and identity",
+    "record audio",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "read phone status and identity",
+    "update component usage statistics",
+    "receive data from Internet",
+    "view network connections",
+    "expand/collapse status bar",
+    "prevent device from sleeping",
+    "draw over other apps",
+    "change your audio settings",
+    "control vibration",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.digipom.easyvoicerecorder.pro",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "prevent device from sleeping",
+    "modify system settings",
+    "Google Play license check",
+    "change your audio settings",
+    "send sticky broadcast",
+    "access Bluetooth settings",
+    "full network access",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.dimowner.audiorecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "full network access",
+    "control vibration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.droid.call.recorder",
+  [
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.droidfoundry.audiorecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.e3games.voicechanger",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.edolfzoku.hayaemon2",
+  [
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.enlightment.voicecallrecorder",
+  [
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.enlightment.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.eonsoft.AutoCallRecoder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "record audio",
+    "read your contacts",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "control vibration",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.famousbluemedia.yokee",
+  [
+    "view Wi-Fi connections",
+    "take pictures and videos",
+    "retrieve running apps",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "read phone status and identity",
+    "record audio",
+    "find accounts on the device",
+    "approximate location (network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "use accounts on the device",
+    "control vibration",
+    "prevent device from sleeping",
+    "run at startup",
+    "view network connections",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.first75.voicerecorder2",
+  [
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "precise location (GPS and network-based)",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "find accounts on the device",
+    "find accounts on the device",
+    "receive data from Internet",
+    "change your audio settings",
+    "pair with Bluetooth devices",
+    "run at startup",
+    "full network access",
+    "prevent device from sleeping",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.first75.voicerecorder2pro",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "record audio",
+    "find accounts on the device",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "prevent device from sleeping",
+    "pair with Bluetooth devices",
+    "run at startup",
+    "view network connections",
+    "Google Play license check",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.fragileheart.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.fragileheart.recorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "draw over other apps",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.full.callrecorder",
+  [
+    "read your contacts",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "draw over other apps"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.gamestar.perfectpiano",
+  [
+    "view Wi-Fi connections",
+    "take pictures and videos",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "approximate location (network-based)",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "control vibration",
+    "full network access",
+    "prevent device from sleeping",
+    "Google Play license check"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.gamestar.pianoperfect",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.gamma.voicerecorder",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "change your audio settings",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.gawk.voicenotes",
+  [
+    "read calendar events plus confidential information",
+    "add or modify calendar events and send email to guests without owners' knowledge",
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "approximate location (network-based)",
+    "capture audio output",
+    "receive data from Internet",
+    "change your audio settings",
+    "install shortcuts",
+    "prevent device from sleeping",
+    "run at startup",
+    "set an alarm",
+    "draw over other apps",
+    "full network access",
+    "view network connections",
+    "control vibration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.geekslab.crpro",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "read your contacts",
+    "run at startup",
+    "prevent device from sleeping",
+    "change your audio settings",
+    "control vibration",
+    "send sticky broadcast",
+    "full network access",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.github.axet.audiorecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "pair with Bluetooth devices",
+    "run at startup",
+    "send sticky broadcast",
+    "prevent device from sleeping",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.gkappli.IBKC",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.gmail.radioserver2",
+  [
+    "retrieve running apps",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "access Bluetooth settings",
+    "send sticky broadcast",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.gomcorp.gomrecorder",
+  [
+    "read calendar events plus confidential information",
+    "read phone status and identity",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "modify system settings",
+    "prevent device from sleeping",
+    "change your audio settings",
+    "pair with Bluetooth devices",
+    "full network access",
+    "control vibration",
+    "view network connections",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.google.android.apps.recorder",
+  [
+    "record audio",
+    "precise location (GPS and network-based)",
+    "view network connections",
+    "read Google service configuration",
+    "measure app storage space",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.google.android.keep",
+  [
+    "find accounts on the device",
+    "read your contacts",
+    "find accounts on the device",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "read sync statistics",
+    "read subscribed feeds",
+    "write subscribed feeds",
+    "receive data from Internet",
+    "view network connections",
+    "prevent device from sleeping",
+    "read sync settings",
+    "measure app storage space",
+    "use accounts on the device",
+    "read Google service configuration",
+    "control vibration",
+    "full network access",
+    "toggle sync on and off",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.google.audio.hearing.visualization.accessibility.scribe",
+  [
+    "read the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "prevent device from sleeping",
+    "draw over other apps",
+    "change your audio settings",
+    "access Bluetooth settings",
+    "control vibration",
+    "full network access",
+    "measure app storage space",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hamb.recorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hatkara.karaokeonline",
+  [
+    "access USB storage filesystem",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.havoice.recorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hd.app.auto.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "capture audio output",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hecorat.screenrecorder.free",
+  [
+    "find accounts on the device",
+    "view Wi-Fi connections",
+    "find accounts on the device",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "take pictures and videos",
+    "receive data from Internet",
+    "control vibration",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "draw over other apps"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hhll.voicerecord",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hiqrecorder.free",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "run at startup",
+    "view network connections",
+    "Google Play license check",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hiqrecorder.full",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "run at startup",
+    "view network connections",
+    "Google Play license check",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hld.audiorecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.hootapps.soundrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.idea.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "use accounts on the device",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.ikmultimediaus.android.irigrecorder",
+  [
+    "retrieve running apps",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "take pictures and videos",
+    "press keys and control buttons",
+    "view network connections",
+    "Google Play license check",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.ikmultimediaus.android.irigrecorder3",
+  [
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "press keys and control buttons",
+    "view network connections",
+    "disable your screen lock",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.ivymobi.voicerecorder.free",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "capture audio output",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.jokubo.twicasbgplayer",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "draw over other apps",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.junyapps.sound.reader",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.kasitskyi.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.killermobile.totalrecall",
+  [
+    "find accounts on the device",
+    "add or remove accounts",
+    "find accounts on the device",
+    "read your contacts",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "use accounts on the device",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.killermobile.totalrecall.s2.trial",
+  [
+    "find accounts on the device",
+    "add or remove accounts",
+    "find accounts on the device",
+    "read your contacts",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "use accounts on the device",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.kohei.android.pcmrecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.kohei.android.pcmrecorderlite",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.kohei.pcmrecorder.pro",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.kumapps.androidapp.gvoicechanger",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.lma.mp3recorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.madinsweden.sleeptalk",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.maetimes.android.pokekara",
+  [
+    "retrieve running apps",
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "change network connectivity",
+    "control flashlight",
+    "measure app storage space",
+    "full network access",
+    "change your audio settings",
+    "draw over other apps",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.mamooru.recvoice",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.media.auto.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "capture audio output",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.media.bestrecorder.audiorecorderpro",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.media.callrecorder.auto",
+  [
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "capture audio output",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.meihillman.audiorecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.meihillman.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "use accounts on the device",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.meihillman.ringtonemaker",
+  [
+    "read your contacts",
+    "modify your contacts",
+    "access USB storage filesystem",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.milktea.garakuta.soundrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.mjtech.newcallrecorder.automatic.phone.recording",
+  [
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "draw over other apps"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.mobi.screenrecorder.durecorder",
+  [
+    "view Wi-Fi connections",
+    "take pictures and videos",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify battery statistics",
+    "receive data from Internet",
+    "view network connections",
+    "install shortcuts",
+    "control flashlight",
+    "modify system settings",
+    "control vibration",
+    "disable your screen lock",
+    "uninstall shortcuts",
+    "prevent device from sleeping",
+    "run at startup",
+    "draw over other apps",
+    "close other apps",
+    "full network access",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.mobiutil.dreamtalkrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.moss.audiofilerestore",
+  [
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.my.leo.somniloquy",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "change system display settings",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.nanamusic.android",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "pair with Bluetooth devices",
+    "control vibration",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.nchsoftware.mixpad_free",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.nchsoftware.pocketwavepad_free",
+  [
+    "retrieve running apps",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "full network access",
+    "prevent device from sleeping",
+    "reorder running apps",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.newkline.avrx",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.nll.acr",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "add or remove accounts",
+    "read phone status and identity",
+    "record audio",
+    "find accounts on the device",
+    "read your contacts",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "use accounts on the device",
+    "prevent device from sleeping",
+    "pair with Bluetooth devices",
+    "run at startup",
+    "view network connections",
+    "draw over other apps",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.nll.acr.license",
+  []
+],
+[
+  "https://play.google.com/store/apps/details?id=com.nll.asr",
+  [
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "change your audio settings",
+    "pair with Bluetooth devices",
+    "run at startup",
+    "full network access",
+    "prevent device from sleeping",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.normandiegame.AudioRecorder",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "modify system settings",
+    "full network access",
+    "prevent device from sleeping",
+    "view network connections",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.northcube.sleepcycle",
+  [
+    "view Wi-Fi connections",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "receive data from Internet",
+    "run at startup",
+    "control vibration",
+    "view network connections",
+    "Google Play license check",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.ntrack.studio.demo",
+  [
+    "find accounts on the device",
+    "read your contacts",
+    "find accounts on the device",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "change your audio settings",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.nus21.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "control vibration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.peace.SilentCamera",
+  [
+    "take pictures and videos",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "control vibration",
+    "view network connections",
+    "read Google service configuration",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.pk.aar",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.quads.earpick",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.radio.fmradio",
+  [
+    "view Wi-Fi connections",
+    "precise location (GPS and network-based)",
+    "receive data from Internet",
+    "view network connections",
+    "prevent device from sleeping",
+    "set an alarm",
+    "install shortcuts",
+    "control vibration",
+    "full network access",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.raytechnoto.glab.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.recorder.music.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "full license to interact across users",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.recorderapps.callrecorder.automaticcallrec",
+  [
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.recorderapps.newcallrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "capture audio output",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.recording.audiomusic.editor",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.rimidalv.dictaphone",
+  [
+    "add or remove accounts",
+    "find accounts on the device",
+    "read phone status and identity",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "find accounts on the device",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "approximate location (network-based)",
+    "receive data from Internet",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "prevent device from sleeping",
+    "use accounts on the device",
+    "change your audio settings",
+    "full network access",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.rokaud.audioelementsdemo",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.rothconsulting.android.radiorec",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "modify system settings",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.rsupport.mobizen.lg",
+  [
+    "retrieve running apps",
+    "read sensitive log data",
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "take pictures and videos",
+    "capture audio output",
+    "capture secure video output",
+    "capture video output",
+    "press keys and control buttons",
+    "read frame buffer",
+    "retrieve running apps",
+    "receive data from Internet",
+    "view network connections",
+    "prevent device from sleeping",
+    "uninstall shortcuts",
+    "connect and disconnect from Wi-Fi",
+    "modify system settings",
+    "install shortcuts",
+    "close other apps",
+    "control vibration",
+    "full network access",
+    "draw over other apps",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sailab.goodsleep",
+  [
+    "find accounts on the device",
+    "add or remove accounts",
+    "find accounts on the device",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.screenrecorder.recorder.editor",
+  [
+    "find accounts on the device",
+    "read phone status and identity",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "find accounts on the device",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "take pictures and videos",
+    "modify battery statistics",
+    "receive data from Internet",
+    "read Google service configuration",
+    "disable your screen lock",
+    "run at startup",
+    "full network access",
+    "view network connections",
+    "install shortcuts",
+    "control flashlight",
+    "close other apps",
+    "prevent device from sleeping",
+    "modify system settings",
+    "uninstall shortcuts",
+    "draw over other apps",
+    "control vibration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sec.android.app.voicenote",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "modify phone state",
+    "read phone status and identity",
+    "directly call phone numbers",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "interact across users",
+    "full license to interact across users",
+    "display unauthorized windows",
+    "manage activity stacks",
+    "manage users",
+    "control media playback and metadata access",
+    "disable or modify status bar",
+    "status bar",
+    "modify/delete internal media storage contents",
+    "modify secure system settings",
+    "pair with Bluetooth devices",
+    "expand/collapse status bar",
+    "view network connections",
+    "prevent device from sleeping",
+    "modify system settings",
+    "control vibration",
+    "full network access",
+    "change your audio settings",
+    "control Near Field Communication",
+    "draw over other apps"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sevegame.voicerecorder",
+  [
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "install shortcuts"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sevenducks.asmrec",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.shinshow.quickrec",
+  [
+    "approximate location (network-based)",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.skydoves.secretreocder",
+  [
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read phone status and identity",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "install shortcuts",
+    "run at startup",
+    "full network access",
+    "prevent device from sleeping",
+    "control vibration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sleepmonitor.aio",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "control vibration",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sm1.EverySing",
+  [
+    "record audio",
+    "approximate location (network-based)",
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "read phone status and identity",
+    "retrieve running apps",
+    "take pictures and videos",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "read Google service configuration",
+    "full network access",
+    "prevent device from sleeping",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.smartmobitools.voicerecorder",
+  [
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "receive data from Internet",
+    "view network connections",
+    "change your audio settings",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.smartsong.seventhclassic",
+  [
+    "retrieve running apps",
+    "find accounts on the device",
+    "find accounts on the device",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "full license to interact across users",
+    "receive data from Internet",
+    "view network connections",
+    "allow Wi-Fi Multicast reception",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.smp.musicspeed",
+  [
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.smsrobot.call.recorder.callsbox",
+  [
+    "find accounts on the device",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "modify your contacts",
+    "find accounts on the device",
+    "read your contacts",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "change your audio settings",
+    "prevent device from sleeping",
+    "run at startup",
+    "set an alarm",
+    "draw over other apps",
+    "full network access",
+    "read battery statistics",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.smsrobot.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "modify your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "read battery statistics",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.smsrobot.callu",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "modify your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "read battery statistics",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.smsrobot.voicerecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.snorelab.app",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "add or remove accounts",
+    "find accounts on the device",
+    "retrieve running apps",
+    "find accounts on the device",
+    "record audio",
+    "take pictures and videos",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "draw over other apps",
+    "prevent device from sleeping",
+    "use accounts on the device"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.softwego.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sony.songpal",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "read your contacts",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "approximate location (network-based)",
+    "receive data from Internet",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "prevent device from sleeping",
+    "connect and disconnect from Wi-Fi",
+    "change your audio settings",
+    "access Bluetooth settings",
+    "full network access",
+    "allow Wi-Fi Multicast reception",
+    "control Near Field Communication",
+    "draw over other apps",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sony.songpal.recremote",
+  [
+    "view network connections",
+    "pair with Bluetooth devices",
+    "access Bluetooth settings",
+    "full network access",
+    "control Near Field Communication"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.soomsoft.damic.free",
+  [
+    "read phone status and identity",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.soomsoft.darecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.soomsoft.darecorder.neo",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sound.voice.recording",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.sound_inn.stereorecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.soundcorset.client.android",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "take pictures and videos",
+    "receive data from Internet",
+    "view network connections",
+    "prevent device from sleeping",
+    "modify system settings",
+    "control vibration",
+    "send sticky broadcast",
+    "control flashlight",
+    "full network access",
+    "draw over other apps",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.splendapps.decibel",
+  [
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping",
+    "Google Play license check"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.splendapps.voicerec",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings",
+    "Google Play license check"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.splendapps.vox",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings",
+    "Google Play license check"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.stereomatch.mp3.audio.recorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "change system display settings",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings",
+    "install shortcuts"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.tadaoyamaoka.vocalpitchmonitor",
+  [ "record audio", "view network connections", "full network access" ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.tcsteamdev.smart.voice.recorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "view network connections",
+    "read battery statistics",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings",
+    "install shortcuts",
+    "uninstall shortcuts"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.tianxingjian.supersound",
+  [
+    "retrieve running apps",
+    "read sensitive log data",
+    "approximate location (network-based)",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.topsoft.callrecorder",
+  [
+    "retrieve running apps",
+    "read your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "change your audio settings",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.tuneme.tuneme",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "find accounts on the device",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "modify system settings",
+    "full network access",
+    "prevent device from sleeping",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.urbandroid.sleep",
+  [
+    "read calendar events plus confidential information",
+    "add or modify calendar events and send email to guests without owners' knowledge",
+    "find accounts on the device",
+    "read phone status and identity",
+    "retrieve running apps",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "body sensors (like heart rate monitors)",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "find accounts on the device",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "approximate location (network-based)",
+    "take pictures and videos",
+    "receive data from Internet",
+    "prevent device from sleeping",
+    "disable your screen lock",
+    "modify system settings",
+    "control vibration",
+    "access Bluetooth settings",
+    "allow Wi-Fi Multicast reception",
+    "control Near Field Communication",
+    "draw over other apps",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "control flashlight",
+    "full network access",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.voice.changer.recorder.effects.editor",
+  [
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "draw over other apps",
+    "modify system settings",
+    "full network access",
+    "prevent device from sleeping",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.voice.live.lispon",
+  [
+    "read phone status and identity",
+    "retrieve running apps",
+    "read sensitive log data",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "take pictures and videos",
+    "Access download manager.",
+    "download files without notification",
+    "receive data from Internet",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "prevent device from sleeping",
+    "modify system settings",
+    "change your audio settings",
+    "control vibration",
+    "full network access",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.voicecall.callrecorder.smartcallrecorder",
+  [
+    "read your contacts",
+    "modify your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "take pictures and videos",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "access Bluetooth settings",
+    "control flashlight",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.wirehall.audiorecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.xymb.voicerecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.zdio.ZDIO",
+  [
+    "record audio",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.zuidsoft.looper",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=com.zwrecorder.voicerecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=coocent.tools.voicerecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=de.ralphsapps.snorecontrol",
+  [
+    "record audio",
+    "view network connections",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=de.teamfunk.android.reversetalk",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "record audio",
+    "find accounts on the device",
+    "approximate location (network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "use accounts on the device",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=eapps.pro.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view network connections",
+    "full network access",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=inc.present.wrapped.rec.er",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=info.kurotools.casrec",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "full network access",
+    "draw over other apps",
+    "prevent device from sleeping",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.bravetechnology.android.voicerecorder",
+  [
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.c2inc.deepsleep.pokemedi",
+  [
+    "find accounts on the device",
+    "read phone status and identity",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "find accounts on the device",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "receive data from Internet",
+    "modify system settings",
+    "prevent device from sleeping",
+    "full network access",
+    "disable your screen lock",
+    "control vibration",
+    "view network connections",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.dkkaraoke.SPKDAM",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view network connections",
+    "full network access",
+    "control vibration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.granks.clipbox",
+  [
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.hakuhododymedia.RadioCloud",
+  [
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "run at startup",
+    "read Google service configuration"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.logitec.cdripper",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.minds_net.voicememo",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.sharp.android.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.vantageapps.app.snore",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.co.xing.karaokeplus",
+  [
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "read phone status and identity",
+    "record audio",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "prevent device from sleeping",
+    "change your audio settings",
+    "modify system settings",
+    "control vibration",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.dpn.android.listenradio",
+  [
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "access Bluetooth settings",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.gr.java.conf.createapps.musicline",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "full network access",
+    "draw over other apps",
+    "prevent device from sleeping",
+    "disable your screen lock",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.gr.java_conf.dbit.koplayer",
+  [
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.gr.java_conf.gibsonnishi",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.gr.java_conf.gibsonnishi.myvoicememo",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.gr.java_conf.gibsonnishi.myvoicememomp3",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "send sticky broadcast",
+    "full network access",
+    "change your audio settings",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.gr.java_conf.sh.edivoice",
+  [
+    "record audio",
+    "full network access",
+    "prevent device from sleeping",
+    "view network connections"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.iodata.cdreco",
+  [
+    "take pictures and videos",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "approximate location (network-based)",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "control vibration",
+    "change network connectivity",
+    "full network access",
+    "allow Wi-Fi Multicast reception",
+    "connect and disconnect from Wi-Fi",
+    "view network connections",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.makulab.dr.sleeping",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "disable your screen lock",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.mehd.soundsensingtrigger.sas",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "view network connections",
+    "disable your screen lock",
+    "full network access",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.mfac.ringtone.chokitto",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.ne.sakura.ccice.audipo",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "full network access",
+    "change your audio settings",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.nekomimimi.boyomi",
+  [
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.nhk.netradio",
+  [
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.radiko.Player",
+  [
+    "read phone status and identity",
+    "retrieve running apps",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "approximate location (network-based)",
+    "receive data from Internet",
+    "pair with Bluetooth devices",
+    "view network connections",
+    "prevent device from sleeping",
+    "disable your screen lock",
+    "change your audio settings",
+    "control vibration",
+    "mock location sources for testing",
+    "send sticky broadcast",
+    "access Bluetooth settings",
+    "full network access",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.simeji.keymusicrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.technocity.netradiorecorder",
+  [
+    "add or remove accounts",
+    "find accounts on the device",
+    "find accounts on the device",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "use accounts on the device"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.wity.RakuRadi",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=jp.worldfamily.caprecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=kaydev.recordaudio.voiceapp",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "capture audio output",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=kr.sira.sound",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=lystudio.karaokezingproject",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=makino.android.somniloquyrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=mb32j.fm.music.player.free.download",
+  [
+    "read phone status and identity",
+    "read phone status and identity",
+    "view Wi-Fi connections",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "precise location (GPS and network-based)",
+    "approximate location (network-based)",
+    "receive data from Internet",
+    "view network connections",
+    "prevent device from sleeping",
+    "control vibration",
+    "change system display settings",
+    "full network access",
+    "draw over other apps",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=me.jlabs.voicerecorder",
+  [
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=mobi.gsj.park",
+  [
+    "approximate location (network-based)",
+    "precise location (GPS and network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=net.pt106.audiomemo.android",
+  [
+    "record audio",
+    "receive data from Internet",
+    "control vibration",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "run at startup"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=net.shizuha.voicerecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=org.skvalex.cr",
+  [
+    "find accounts on the device",
+    "add or remove accounts",
+    "find accounts on the device",
+    "read your contacts",
+    "modify your contacts",
+    "directly call phone numbers",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "create accounts and set passwords",
+    "pair with Bluetooth devices",
+    "access Bluetooth settings",
+    "full network access",
+    "change your audio settings",
+    "read sync settings",
+    "run at startup",
+    "draw over other apps",
+    "use accounts on the device",
+    "control vibration",
+    "prevent device from sleeping",
+    "toggle sync on and off"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=polis.app.callrecorder",
+  [
+    "find accounts on the device",
+    "find accounts on the device",
+    "read your contacts",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "full network access",
+    "change your audio settings",
+    "run at startup",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=shadrin.audiorecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=sound.recorder.offline.radio",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=thuongngo.easyrecorder",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=tools.audio.sound.voice.recorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=tu.mu.gu35",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "change your audio settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=uk.co.projectneon.echo",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=umito.android.minipiano",
+  [
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "receive data from Internet",
+    "view network connections",
+    "pair with Bluetooth devices",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=us.rec.screen",
+  [
+    "approximate location (network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "receive data from Internet",
+    "view network connections",
+    "full network access",
+    "run at startup",
+    "draw over other apps",
+    "control vibration",
+    "prevent device from sleeping",
+    "modify system settings"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=videoeditor.videorecorder.screenrecorder",
+  [
+    "take pictures and videos",
+    "read sensitive log data",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "update component usage statistics",
+    "receive data from Internet",
+    "control vibration",
+    "view network connections",
+    "expand/collapse status bar",
+    "draw over other apps",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=voice.recorder.metting.voicenote.music.song",
+  [
+    "view Wi-Fi connections",
+    "read sensitive log data",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "access USB storage filesystem",
+    "read phone status and identity",
+    "record audio",
+    "approximate location (network-based)",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "receive data from Internet",
+    "view network connections",
+    "read Google service configuration",
+    "modify system settings",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=voice.recorder.soundrecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=voice.recorder.voicerecorder",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "full network access"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=vr.audio.voicerecorder",
+  [
+    "record audio",
+    "view Wi-Fi connections",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read phone status and identity",
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "control vibration",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "prevent device from sleeping"
+  ]
+],
+[
+  "https://play.google.com/store/apps/details?id=vr.audio.voicerecorderpro",
+  [
+    "read phone status and identity",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "read the contents of your USB storage",
+    "modify or delete the contents of your USB storage",
+    "record audio",
+    "view Wi-Fi connections",
+    "read phone status and identity",
+    "view network connections",
+    "connect and disconnect from Wi-Fi",
+    "full network access",
+    "control vibration",
+    "prevent device from sleeping"
+  ]
+]]
